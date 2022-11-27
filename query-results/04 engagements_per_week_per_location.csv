@@ -1,0 +1,341 @@
+week_num,location,num_engagements
+19,United States,4600
+19,Germany,1281
+19,Japan,1165
+19,United Kingdom,1082
+19,France,793
+19,Russia,710
+19,Italy,621
+19,Canada,611
+19,Brazil,564
+19,Mexico,554
+19,Korea,554
+19,Australia,495
+19,India,450
+19,Indonesia,390
+19,Spain,379
+19,Saudi Arabia,150
+19,Netherlands,136
+19,Turkey,121
+19,Switzerland,104
+19,Sweden,85
+20,United States,4637
+20,Japan,1332
+20,United Kingdom,990
+20,Germany,976
+20,Russia,960
+20,France,829
+20,Canada,620
+20,Italy,555
+20,Mexico,540
+20,Brazil,493
+20,India,415
+20,Korea,368
+20,Australia,352
+20,Spain,348
+20,Indonesia,334
+20,Saudi Arabia,241
+20,Switzerland,177
+20,Sweden,141
+20,Netherlands,112
+20,Turkey,56
+21,United States,4359
+21,Japan,1402
+21,Germany,1147
+21,France,1087
+21,United Kingdom,1034
+21,Russia,710
+21,India,629
+21,Italy,616
+21,Canada,554
+21,Brazil,547
+21,Mexico,499
+21,Indonesia,449
+21,Korea,437
+21,Spain,419
+21,Australia,309
+21,Netherlands,232
+21,Switzerland,215
+21,Saudi Arabia,170
+21,Sweden,130
+21,Turkey,56
+22,United States,4276
+22,Japan,1298
+22,Germany,1249
+22,United Kingdom,981
+22,Russia,872
+22,France,746
+22,Brazil,666
+22,Mexico,641
+22,Italy,573
+22,India,525
+22,Canada,466
+22,Spain,399
+22,Australia,359
+22,Korea,350
+22,Saudi Arabia,296
+22,Indonesia,275
+22,Switzerland,182
+22,Sweden,154
+22,Netherlands,151
+22,Turkey,86
+23,United States,5100
+23,Japan,1656
+23,Germany,1202
+23,United Kingdom,1163
+23,France,885
+23,Brazil,635
+23,Mexico,612
+23,Canada,510
+23,Italy,505
+23,India,477
+23,Spain,433
+23,Australia,400
+23,Russia,393
+23,Korea,365
+23,Saudi Arabia,320
+23,Indonesia,278
+23,Switzerland,223
+23,Sweden,201
+23,Netherlands,173
+23,Turkey,157
+24,United States,5348
+24,Japan,1431
+24,Germany,1075
+24,France,987
+24,United Kingdom,842
+24,Brazil,684
+24,Italy,642
+24,Russia,567
+24,Canada,498
+24,Mexico,482
+24,Australia,480
+24,India,477
+24,Korea,383
+24,Spain,376
+24,Indonesia,356
+24,Sweden,273
+24,Saudi Arabia,257
+24,Netherlands,225
+24,Switzerland,218
+24,Turkey,126
+25,United States,5441
+25,Japan,1383
+25,Germany,1271
+25,France,1162
+25,United Kingdom,880
+25,Russia,713
+25,Brazil,626
+25,Italy,512
+25,Canada,498
+25,India,485
+25,Mexico,477
+25,Australia,434
+25,Spain,357
+25,Korea,346
+25,Netherlands,339
+25,Indonesia,319
+25,Saudi Arabia,272
+25,Switzerland,245
+25,Sweden,217
+25,Turkey,98
+26,United States,5447
+26,Japan,1369
+26,Germany,1208
+26,France,1131
+26,United Kingdom,864
+26,Russia,646
+26,Brazil,592
+26,Mexico,488
+26,India,481
+26,Indonesia,469
+26,Korea,458
+26,Canada,440
+26,Italy,435
+26,Australia,392
+26,Sweden,382
+26,Spain,337
+26,Saudi Arabia,287
+26,Switzerland,168
+26,Netherlands,168
+26,Turkey,28
+27,United States,5540
+27,Japan,1638
+27,France,1189
+27,Germany,1089
+27,Brazil,747
+27,Italy,724
+27,United Kingdom,696
+27,India,614
+27,Russia,603
+27,Canada,475
+27,Indonesia,469
+27,Mexico,447
+27,Korea,441
+27,Australia,436
+27,Sweden,366
+27,Spain,201
+27,Switzerland,195
+27,Saudi Arabia,191
+27,Netherlands,125
+27,Turkey,97
+28,United States,5124
+28,Japan,1724
+28,Germany,1510
+28,France,1153
+28,Italy,849
+28,United Kingdom,821
+28,Brazil,679
+28,Canada,636
+28,India,579
+28,Russia,563
+28,Australia,527
+28,Mexico,504
+28,Indonesia,386
+28,Korea,284
+28,Switzerland,259
+28,Saudi Arabia,255
+28,Sweden,231
+28,Netherlands,226
+28,Spain,222
+28,Turkey,176
+29,United States,5725
+29,Germany,1678
+29,Japan,1450
+29,France,999
+29,United Kingdom,822
+29,Russia,735
+29,India,694
+29,Italy,684
+29,Canada,640
+29,Brazil,625
+29,Mexico,603
+29,Korea,598
+29,Switzerland,338
+29,Indonesia,319
+29,Australia,304
+29,Saudi Arabia,268
+29,Netherlands,238
+29,Sweden,212
+29,Spain,194
+29,Turkey,139
+30,United States,5678
+30,Germany,1799
+30,Japan,1321
+30,France,1195
+30,United Kingdom,908
+30,Italy,729
+30,Brazil,689
+30,Russia,682
+30,India,552
+30,Mexico,541
+30,Canada,462
+30,Switzerland,373
+30,Korea,329
+30,Netherlands,310
+30,Indonesia,290
+30,Australia,264
+30,Saudi Arabia,245
+30,Turkey,229
+30,Sweden,216
+30,Spain,202
+31,United States,6526
+31,Japan,1639
+31,Germany,1495
+31,France,1014
+31,United Kingdom,993
+31,Italy,911
+31,India,744
+31,Russia,684
+31,Brazil,618
+31,Mexico,511
+31,Canada,489
+31,Australia,487
+31,Korea,450
+31,Netherlands,395
+31,Indonesia,299
+31,Switzerland,286
+31,Spain,278
+31,Saudi Arabia,244
+31,Sweden,138
+31,Turkey,107
+32,United States,5278
+32,Japan,1461
+32,Germany,1217
+32,France,847
+32,United Kingdom,776
+32,Italy,757
+32,Russia,646
+32,India,530
+32,Brazil,453
+32,Australia,444
+32,Canada,435
+32,Korea,379
+32,Mexico,378
+32,Netherlands,321
+32,Spain,245
+32,Saudi Arabia,225
+32,Sweden,216
+32,Turkey,203
+32,Switzerland,194
+32,Indonesia,180
+33,United States,4796
+33,Japan,1364
+33,Germany,1264
+33,France,798
+33,United Kingdom,660
+33,Brazil,622
+33,Italy,585
+33,Russia,571
+33,Australia,473
+33,Mexico,358
+33,Korea,316
+33,Netherlands,310
+33,India,284
+33,Indonesia,249
+33,Sweden,243
+33,Canada,212
+33,Turkey,198
+33,Saudi Arabia,154
+33,Switzerland,149
+33,Spain,138
+34,United States,4372
+34,Japan,1308
+34,Germany,1222
+34,France,677
+34,United Kingdom,672
+34,Brazil,603
+34,Russia,574
+34,Italy,522
+34,Canada,397
+34,Australia,395
+34,Indonesia,391
+34,India,385
+34,Mexico,365
+34,Netherlands,334
+34,Korea,306
+34,Spain,303
+34,Sweden,144
+34,Turkey,120
+34,Saudi Arabia,115
+34,Switzerland,98
+35,United States,4707
+35,Japan,1059
+35,Germany,1041
+35,United Kingdom,853
+35,France,608
+35,Italy,566
+35,Russia,563
+35,Brazil,486
+35,Mexico,454
+35,India,398
+35,Indonesia,345
+35,Netherlands,335
+35,Canada,331
+35,Spain,307
+35,Australia,300
+35,Korea,257
+35,Sweden,247
+35,Turkey,164
+35,Saudi Arabia,133
+35,Switzerland,115
